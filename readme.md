@@ -24,6 +24,22 @@
 - [Conteúdo](Aula04)
 
 ## Aula 05 - 01/09/2022
+- Quando e porque usamos FORM em páginas
+  - Method: GET e POST
+  - Action: `página que receberá os dados`
+- Inputs
+  - Text: Para texto
+  - Password: Senha
+  - Radio (mesmo name): Escolha única
+  - Checkbox: Escolha de uma ou várias opções
+  - Button: Botão simples
+  - Submit: Envia todo o conteúdo para a página do action
+- Select
+  - Caixa de seleção
+  - Deve possuir `<option>` para cada opção
+
+**Não esquecer:** Todos os inputs devem possuir um name, que será a variável enviada
+
 
 ## Aula 06 - 08/09/2022
 
