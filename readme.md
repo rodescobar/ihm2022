@@ -1,4 +1,4 @@
-# Disciplia Interface Homem Máquina - 2022
+# Disciplina Interface Homem Máquina - 2022
  Prof. Rodrigo Escobar
 
 ## Aula 01 - 04/08/2022 
