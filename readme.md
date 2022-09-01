@@ -22,3 +22,9 @@
 - Montando estrutura do site da UOL com tabelas
 - Exercício para montagem de linhas de publicidade e primeiras notícias.
 - [Conteúdo](Aula04)
+
+## Aula 05 - 01/09/2022
+
+## Aula 06 - 08/09/2022
+
+## Aula 07 - 15/09/2022 (Avaliação Bimestral)
