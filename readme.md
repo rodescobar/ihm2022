@@ -41,9 +41,12 @@
 **Não esquecer:** Todos os inputs devem possuir um name, que será a variável enviada
 
 
-## Aula 06 - 08/09/2022
+## Aula 06 - 08/09/2022 - Trabalho
 - Hyperlink 
 - iFrame
+- Trabalho valendo 2,00 pontos [Aqui](https://drive.google.com/drive/folders/1hEljVNwAsZsw7W5MIcnk_VRgZfn461A1)
+
+
 [Conteúdo](Aula06)
 
 ## Aula 07 - 15/09/2022 (Avaliação Bimestral)
