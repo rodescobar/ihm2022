@@ -50,3 +50,7 @@
 [Conteúdo](Aula06)
 
 ## Aula 07 - 15/09/2022 (Avaliação Bimestral)
+
+## Aula 08 - 13/10/2022
+- CSS
+- Montagem de tela Mortal Kombat
