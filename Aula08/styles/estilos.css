@@ -1,0 +1,59 @@
+body {
+   background: green 
+}
+
+a {
+    color: aqua;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    text-shadow: 2px 2px red;
+}
+
+.zapzap {
+    color: white;
+    background-color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    padding: 2px;
+    border: 1px white;
+}
+.zapzap:hover {
+    color: blue;
+    background-color: #ccc;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    padding: 2px;
+    /*
+        padding-left:2px ;
+        padding-top: 2px;
+        padding-right: 2px;
+        padding-bottom: 2px;
+    */
+    border: 1px white;
+}
+
+table {
+    border: 3px dashed pink;
+    box-shadow: 20px 20px black;
+}
+
+thead {
+    color: blue;
+    font-size: 24px;
+}
+
+td {
+    background-color: aquamarine;
+}
+
+td:hover {
+    background-color: bisque;
+}

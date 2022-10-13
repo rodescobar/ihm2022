@@ -1,0 +1,76 @@
+body {
+    margin: 0
+}
+
+.fundo {
+    background: url("../images/fund.jpg");
+    height: 100vh;
+    background-repeat: no-repeat; /* sem repetir */
+    background-position: center; /* centralizada */
+    background-size: cover; /* fullscreen */
+}
+
+.barra_vida {
+    width: 100%;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.jogador_1_fundo {
+    width: 40%;
+    height: 50px;
+    background: red;
+    box-shadow: 2px 2px 18px #000;
+    border-radius: 10px;
+}
+
+.jogador_2_fundo {
+    width: 40%;
+    height: 50px;
+    background: red;
+}
+
+.jogador_1_vida {
+    width: 20%;
+    height: 100%;
+    background: green;
+    box-shadow: 2px 2px 18px #000;
+}
+
+.jogador_2_vida {
+    width: 30%;
+    height: 100%;
+    background: green;
+    float: right;
+}
+
+
+.jogadores {
+    background: none;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.jogador1 {
+    background: url("../images/scorpion.png");
+    background-repeat: no-repeat;
+    background-size: 100px 200px;
+    width: 100px;
+    height: 300px;
+}
+
+.jogador2 {
+    background: url("../images/subzero.png");
+    background-repeat: no-repeat;
+    background-size: 100px 200px;
+    width: 100px;
+    height: 300px;
+}
