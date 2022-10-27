@@ -30,10 +30,10 @@ $(document).ready(function() {
 ```
 
 2) Entendimento do código do item 1
-- $ representa que você irá utilizar jQuery
-- (document) indica qual objeto será utilizado
-- .ready() em qual momento que será ativado
-- function() {} bloco onde existirá sua codificação.
+- `$` representa que você irá utilizar jQuery
+- `(document)` indica qual objeto será utilizado
+- `.ready()` em qual momento que será ativado
+- `function() {}` bloco onde existirá sua codificação.
 
 *Exemplo* Ao clicar no botão que possui o _id_:_teste_, uma mensagem será apresentada na tela
 ```js
@@ -50,3 +50,5 @@ No exemplo é possível ver que:
 - `("#teste")` no objeto com id teste
 - `.click()` no evento click
 - `function(){ ... }` mostra em tela a mensagem _Olá mundo_
+
+OBS: Sempre seu bloco de desenvolvimento estará dentro de `$(document).ready (function() { ... } )
