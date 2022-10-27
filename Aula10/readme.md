@@ -1,6 +1,8 @@
 # Aula 10 - jQuery
 
-## Importando o jQuery para a aplicação.
+## jQuery
+
+### Importando o jQuery para a aplicação.
 
 - Criar uma _TAG_ `<script>` antes do `</body>`
 - Adicionar a o parâmetro *src* à _TAG_ criada e colocar o endereço abaixo
@@ -17,3 +19,12 @@
 OBS: O ideal é criar uma pasta *JS* e criar o arquivo dentro dela.
 
 OBS2: Procure nomear o arquivo, com o mesmo nome do HTML
+
+## Desenvolvento nosso primeiro Hello World em JS
+
+1) Sempre que for utilizar jQuery, todos o desenvolvimento deve estar dentro do bloco 
+```js
+$(document).ready(function() {
+    .....
+})
+```
