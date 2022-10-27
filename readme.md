@@ -54,3 +54,7 @@
 ## Aula 08 - 13/10/2022
 - CSS
 - Montagem de tela Mortal Kombat
+
+## Aula 09 - 20/10/2022
+- Javascript
+- Conhecendo jQuery
