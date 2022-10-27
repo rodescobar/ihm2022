@@ -28,3 +28,25 @@ $(document).ready(function() {
     .....
 })
 ```
+
+2) Entendimento do código do item 1
+- $ representa que você irá utilizar jQuery
+- (document) indica qual objeto será utilizado
+- .ready() em qual momento que será ativado
+- function() {} bloco onde existirá sua codificação.
+
+*Exemplo* Ao clicar no botão que possui o _id_:_teste_, uma mensagem será apresentada na tela
+```js
+$(document).ready(function() {
+
+    $("#teste").click(function() {
+        alert("Olá Mundo")
+    })
+})
+```
+
+No exemplo é possível ver que:
+- `$` utilizando jQuery
+- `("#teste")` no objeto com id teste
+- `.click()` no evento click
+- `function(){ ... }` mostra em tela a mensagem _Olá mundo_
