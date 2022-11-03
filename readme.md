@@ -58,3 +58,12 @@
 ## Aula 09 - 20/10/2022
 - Javascript
 - Conhecendo jQuery
+
+## Aula 10 - 20/10/2022
+- Entendendo jQuery
+
+## Aula 11 - 03/11/2022
+- jQuery
+- Utilizando $(this) para pegar o objeto
+- Conhecendo o $(this).parent() => para pegar o objeto pai do item
+- Conhecendo o $(this).parent().children() => para pegar todos os filhos do pai do item

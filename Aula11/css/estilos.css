@@ -1,0 +1,9 @@
+.seta_c {
+    background: url("../img/cima.png");
+    width: 48px;
+}
+
+.seta_b {
+    background: url("../img/baixo.png");
+    width: 48px;
+}
