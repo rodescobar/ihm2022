@@ -67,3 +67,10 @@
 - Utilizando $(this) para pegar o objeto
 - Conhecendo o $(this).parent() => para pegar o objeto pai do item
 - Conhecendo o $(this).parent().children() => para pegar todos os filhos do pai do item
+
+## Aula 13 - 10/11/2022 - Trabalho
+- Trabalho avaliativo
+- Data de entrega: 10/11/2022
+- Horário máximo: 20h30
+- Fique presente até seu RA for adicionado à lista de trabalhos
+- [Aqui](https://drive.google.com/drive/folders/1hEljVNwAsZsw7W5MIcnk_VRgZfn461A1)
