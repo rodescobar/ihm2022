@@ -74,3 +74,6 @@
 - Horário máximo: 20h30
 - Fique presente até seu RA for adicionado à lista de trabalhos
 - [Aqui](https://drive.google.com/drive/folders/1hEljVNwAsZsw7W5MIcnk_VRgZfn461A1)
+
+## Aula 13 - 17/11/2022
+- Conhecendo [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
